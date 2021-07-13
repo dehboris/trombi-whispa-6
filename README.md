@@ -1,9 +1,11 @@
 # Trombinoscope Whispa 6.0
 
 1- Créer le fork du projet
+
 2- Cloner le fork du projet
 
 `git clone <url de son lien>`
+
 3- Ajouter des informations
 
 - Ouvrir Visual Studio Code
